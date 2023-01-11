@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PYTHON, FRONT-END DEVELOPMENT**
 
-- 💬 Ask me about **C#, C++, PYTHON, HTML**
+- 💬 Ask me about **C#, C++, PYTHON, HTML, Desktop Application and Game Development.**
 
 - 📫 How to reach me **ayeshaashfaq925@gmail.com**
 
