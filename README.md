@@ -1,5 +1,5 @@
 <h1 align="center">Hi , Ayesha Ashfaq here,</h1>
-<h3 align="center">A concerned developer and a budding computer science student looking for some exciting new projects and working on new technologies</h3>
+<h3 align="center">A concerned developer and a budding Computer science student looking for some exciting new projects and working on new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaashfaq12&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaashfaq12" /> </p>
 
