@@ -1,5 +1,10 @@
-<h1 align="center">Hi , Ayesha Ashfaq here,</h1>
-<h3 align="center">A concerned developer and a budding Computer Science Student looking for some exciting new projects and working on new technologies. I have some guarded skills in C# Desktop-Based applications.</h3>
+<h1 align="center">السلام علیکم<br> 🤞Ayesha Ashfaq here </h1>
+<br>
+<h4 align="justify">
+Welcome to my Github profile! I am a skilled developer with a passion for game development and experience in HTML, CSS, C#, C++, and Python. Along with my technical expertise, I am proficient in Adobe Illustrator and have a keen eye for design. I pride myself on my problem-solving abilities and expertise in data structures. My strong communication skills and experience in client handling have enabled me to deliver successful projects that meet and exceed client expectations. With a dedication to continuous learning and improvement, I am always seeking out new challenges and opportunities to grow as a developer.<br>
+A concerned developer and a budding Computer Science Student looking for some exciting new projects and working on new technologies. I have some guarded skills in C# Desktop-Based applications.
+ </h4>
+ <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaashfaq12&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaashfaq12" /> </p>
 
