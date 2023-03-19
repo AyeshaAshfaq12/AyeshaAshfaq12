@@ -19,6 +19,8 @@ A concerned developer and a budding Computer Science Student looking for some ex
 
 - 📫 How to reach me **ayeshaashfaq925@gmail.com**
 
+- You can checkout my Portfolio at <a href="https://rebrand.ly/AyeshaAshfaq"><b>https://rebrand.ly/AyeshaAshfaq</b></a>
+
 - Fun fact **BTS Army**
 
 <h3 align="left">Connect with me:</h3>
