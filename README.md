@@ -8,8 +8,9 @@ A concerned developer and a budding Computer Science Student looking for some ex
  <br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaashfaq12&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaashfaq12" /> </p>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="400" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaashfaq12" alt="ayeshaashfaq12" /></a> </p>
+
 
 - 🔭 I’m currently working on [Coca-Cola Distribution Management System](https://github.com/AyeshaAshfaq12/Hospital_Management_System)
 
@@ -23,6 +24,12 @@ A concerned developer and a budding Computer Science Student looking for some ex
 
 - Fun fact **BTS Army**
 
+<br><br>
+<h3> Github Trophies </h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaashfaq12" alt="ayeshaashfaq12" /></a> </p>
+
+
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayesha-ashfaq-28980a233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-ashfaq-28980a233" height="30" width="40" /></a>
