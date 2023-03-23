@@ -1,4 +1,4 @@
-<h1 align="center">السلام علیکم<br> 🤞Ayesha Ashfaq here </h1>
+<img src="Poster.png" />
 <br>
 <h4 align="justify">
 Welcome to my Github profile! I am a passionate developer with expertise in a variety of programming languages and a strong focus on delivering high-quality code. My experience includes developing robust web applications using HTML, CSS, and JavaScript, as well as creating complex algorithms and data structures with Python and C++. I am also proficient in database management and have experience with SQL. My problem-solving skills, attention to detail, and ability to work collaboratively make me a valuable asset to any team. I am committed to staying up-to-date with the latest technologies and best practices, and I am always eager to learn and tackle new challenges.<br>
