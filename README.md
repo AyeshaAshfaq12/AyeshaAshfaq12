@@ -14,9 +14,9 @@ A concerned developer and a budding Computer Science Student looking for some ex
 
 - 🔭 I’m currently working on [Coca-Cola Distribution Management System](https://github.com/AyeshaAshfaq12/Hospital_Management_System)
 
-- 🌱 I’m currently learning **PYTHON, FRONT-END DEVELOPMENT**
+- 🌱 I’m currently learning **SQL, FRONT-END DEVELOPMENT**
 
-- 💬 Ask me about **C#, C++, PYTHON, HTML, Desktop Application and Game Development.**
+- 💬 Ask me about **C#, C++, PYTHON, HTML, SQL, Desktop Application and Game Development.**
 
 - 📫 How to reach me **ayeshaashfaq925@gmail.com**
 
