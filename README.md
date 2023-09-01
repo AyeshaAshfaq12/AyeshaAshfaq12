@@ -22,8 +22,6 @@ A concerned developer and a budding Computer Science Student looking for some ex
 
 - You can checkout my Portfolio at <a href="https://rebrand.ly/AyeshaAshfaq"><b>https://rebrand.ly/AyeshaAshfaq</b></a>
 
-- Fun fact **BTS Army**
-
 <br><br>
 <h3> Github Trophies </h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayeshaashfaq12" alt="ayeshaashfaq12" /></a> </p>
