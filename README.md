@@ -12,7 +12,7 @@ A concerned developer and a budding Computer Science Student looking for some ex
 
 
 
-- 🔭 I’m currently working on learning **Django**
+- 🔭 I’m currently learning **Django**
 
 - 🌱 I’m currently learning **SQL, FRONT-END DEVELOPMENT**
 
