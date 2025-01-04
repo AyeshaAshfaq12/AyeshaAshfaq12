@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Ayesha+Ashfaq)](https://git.io/typing-svg)
-
+<img src="Poster.jpg" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img src="Poster.png" />
 <br>
+
 <h4 align="justify">
 Welcome to my Github profile! I am a passionate developer with expertise in a variety of programming languages and a strong focus on delivering high-quality code. My experience includes developing robust web applications using HTML, CSS, and JavaScript, as well as creating complex algorithms and data structures with Python and C++. I am also proficient in database management and have experience with SQL. My problem-solving skills, attention to detail, and ability to work collaboratively make me a valuable asset to any team. I am committed to staying up-to-date with the latest technologies and best practices, and I am always eager to learn and tackle new challenges.<br>
 A skilled developer with a passion for game development and experience in HTML, CSS, C#, C++, and Python. Along with my technical expertise, I am proficient in Adobe Illustrator and have a keen eye for design. I pride myself on my problem-solving abilities and expertise in data structures. My strong communication skills and experience in client handling have enabled me to deliver successful projects that meet and exceed client expectations. With a dedication to continuous learning and improvement, I am always seeking out new challenges and opportunities to grow as a developer.
