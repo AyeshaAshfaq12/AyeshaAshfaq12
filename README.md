@@ -3,11 +3,10 @@
 <br>
 
 <h4 align="justify">
-Welcome to my Github profile! I am a passionate developer with expertise in a variety of programming languages and a strong focus on delivering high-quality code. My experience includes developing robust web applications using HTML, CSS, and JavaScript, as well as creating complex algorithms and data structures with Python and C++. I am also proficient in database management and have experience with SQL. My problem-solving skills, attention to detail, and ability to work collaboratively make me a valuable asset to any team. I am committed to staying up-to-date with the latest technologies and best practices, and I am always eager to learn and tackle new challenges.<br>
-A skilled developer with a passion for game development and experience in HTML, CSS, C#, C++, and Python. Along with my technical expertise, I am proficient in Adobe Illustrator and have a keen eye for design. I pride myself on my problem-solving abilities and expertise in data structures. My strong communication skills and experience in client handling have enabled me to deliver successful projects that meet and exceed client expectations. With a dedication to continuous learning and improvement, I am always seeking out new challenges and opportunities to grow as a developer.
-A concerned developer and a budding Computer Science Student looking for some exciting new projects and working on new technologies. I have some guarded skills in C# Desktop-Based applications.
- </h4>
- <br><br>
+ I am a lifetime student and a passionate Software Engineer from Pakistan 🇵🇰. 
+</h4>
+
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaashfaq12&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaashfaq12" /> </p>
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align="right" width="400" />
