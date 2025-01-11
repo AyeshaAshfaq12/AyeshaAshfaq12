@@ -2,9 +2,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
-<h4 align="justify">
- I am a lifetime student and a passionate Software Engineer from Pakistan 🇵🇰. 
-</h4>
+<p align="justify">
+ I am a lifetime student and a passionate Software Engineer from Pakistan 🇵🇰. I have a knack for problem-solving and a love for clean, efficient code. Specialize in building software and web applications, leveraging my expertise in Python, Django, AI, computer vision, and C#.
+</p>
 
 <br><br>
 
@@ -43,3 +43,4 @@
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayeshaashfaq12&show_icons=true&locale=en&layout=compact" alt="ayeshaashfaq12" />
 
 <img align="right"  width="400" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshaashfaq12&" alt="ayeshaashfaq12" />
+<br><br>
