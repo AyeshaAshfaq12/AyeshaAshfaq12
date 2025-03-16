@@ -32,7 +32,7 @@
 ## 🚀 Skills & Expertise  
 
 ### 🔥 Core Expertise  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Generative%20AI-FF5733?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-0277BD?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/-Data%20Science-2E7D32?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />
@@ -40,7 +40,7 @@
 </p>
 
 ### 🖥️ Programming Languages  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -48,7 +48,7 @@
 </p>
 
 ### 🔧 Frameworks & Libraries  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -56,7 +56,7 @@
 </p>
 
 ### 🛠️ Tools & Platforms  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -64,7 +64,7 @@
 </p>
 
 ### 🗄️ Databases & Cloud  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -72,7 +72,7 @@
 </p>
 
 ### 🧠 AI & NLP  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -80,7 +80,7 @@
 </p>
 
 ### 🌐 Other Skills  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Web%20Scraping-FF9800?style=for-the-badge&logo=python&logoColor=white" alt="Web Scraping" />
   <img src="https://img.shields.io/badge/-Automation-FFC107?style=for-the-badge&logo=zapier&logoColor=black" alt="Automation" />
   <img src="https://img.shields.io/badge/-Cybersecurity-8B0000?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity" />
@@ -91,7 +91,6 @@
 
 
 ## 📜 Certifications & Achievements
-
 [![Generative AI Vertex | Vertex AI Badge](https://img.shields.io/badge/Generative%20AI%20Vertex-Vertex%20AI%20Badge-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/46804979-8fcf-4fc9-876a-7c5c8ff9d055/badges/13677604)
 
 
